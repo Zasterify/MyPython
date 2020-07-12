@@ -8,6 +8,7 @@ def house_paid(bungalow, duplex, hut):
         return ('Cool! You tried it.')
     elif not bungalow and not duplex and hut:  # if hut is true, bungalow and duplex are false
         return ('Ah! Shame on you.')
+    else:
     
 
 
