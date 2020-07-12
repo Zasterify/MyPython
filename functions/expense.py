@@ -13,3 +13,6 @@ def snack_price(snack):
   elif snack == 'candy':  # if you prefer to consume candy
     return 7.40
 
+def cab_cost(days): 
+  '''to define the function called cab_cost'''
+
