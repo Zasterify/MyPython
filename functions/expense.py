@@ -6,4 +6,5 @@ def snack_price(snack):
   ''' to define the funtion called snack_price'''
   if snack == 'cookie':  # if you prefer to consume cookie
     return 2.25
+  elif snack == 'pizza':  # if you prefer to consume pizza
 
