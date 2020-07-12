@@ -11,4 +11,5 @@ def snack_price(snack):
   elif snack == 'crisp':  # if you prefer to consume crisp
     return 3.30
   elif snack == 'candy':  # if you prefer to consume candy
+    return 7.40
 
