@@ -6,4 +6,5 @@ def minimum(lst):
 def maximum(lst):
     '''to define the function called maximum with 1 agrument 'list' '''
     maximum = max(lst)  # to calculate the maximum to get answer
+    print ('The maximum is ',maximum)  # to print the answer
 
