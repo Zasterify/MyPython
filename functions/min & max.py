@@ -3,3 +3,6 @@ def minimum(lst):
     minimum = min(lst)  # to calculate the minimum to get answer
     print ('The minimum is ',minimum)  # to print the answer
 
+def maximum(lst):
+    '''to define the function called maximum with 1 agrument 'list' '''
+
