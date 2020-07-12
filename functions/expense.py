@@ -16,4 +16,5 @@ def snack_price(snack):
 def cab_cost(days): 
   '''to define the function called cab_cost'''
   costs = 40 * days  # to notice how many days you spent per ride
+  if days <= 4:  # if it is less than 4 days
 
