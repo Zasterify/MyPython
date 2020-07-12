@@ -24,3 +24,4 @@ def cab_cost(days):
 
 def total_cost(snack, days, expenditure):  
   '''to define the function called total_cost with 3 arguments'''
+  return cab_cost(days) + apartment_cost(days - 1) + snack_price(snack) + expenditure  # to calculate the amount of prices
