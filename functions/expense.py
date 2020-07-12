@@ -19,4 +19,5 @@ def cab_cost(days):
   if days <= 4:  # if it is less than 4 days
     costs -= 30  # to discount your price
   elif days >= 5:  # if it is more than 5 days
+    costs -= 50  # to discount your price
 
