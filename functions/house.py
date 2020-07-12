@@ -10,6 +10,8 @@ def house_paid(bungalow, duplex, hut):
         return ('Ah! Shame on you.')
     else:
         return ('Oh damn!')  # if none of them is true
+
+print(house_paid(False, False, False))  # to print for calling the function 'house_paid'
     
 
 
