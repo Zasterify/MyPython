@@ -4,4 +4,5 @@ def apartment_cost(nights):
 
 def snack_price(snack):
   ''' to define the funtion called snack_price'''
+  if snack == 'cookie':  # if you prefer to consume cookie
 
