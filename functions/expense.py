@@ -22,3 +22,5 @@ def cab_cost(days):
     costs -= 50  # to discount your price
   return costs 
 
+def total_cost(snack, days, expenditure):  
+  '''to define the function called total_cost with 3 arguments'''
