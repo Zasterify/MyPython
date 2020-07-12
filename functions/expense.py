@@ -18,4 +18,5 @@ def cab_cost(days):
   costs = 40 * days  # to notice how many days you spent per ride
   if days <= 4:  # if it is less than 4 days
     costs -= 30  # to discount your price
+  elif days >= 5:  # if it is more than 5 days
 
