@@ -5,3 +5,6 @@ def shopping(price):
 def rent(price):  
     '''to define the function called rent'''
     return price + price * 25/100  # to calculate the price for rent
+
+def uber(price):  
+    '''to define the function called price'''
